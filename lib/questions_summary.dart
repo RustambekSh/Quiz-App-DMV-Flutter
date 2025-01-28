@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:google_fonts/google_fonts.dart';
 
 class QuestionsSummary extends StatelessWidget {
@@ -16,15 +15,15 @@ class QuestionsSummary extends StatelessWidget {
             return Row(children: [
               ClipRRect(
                 borderRadius: BorderRadius.circular(
-                    100), // Sets the border radius to make it circular
+                    100), 
                 child: Container(
                   decoration: BoxDecoration(
                     color: const Color.fromARGB(255, 0, 255, 255),
                     borderRadius: BorderRadius.circular(
-                        100), // Match the ClipRRect's borderRadius
+                        100), 
                     border: Border.all(
-                      color: Colors.blue, // Color of the border
-                      width: 4, // Thickness of the border
+                      color: Colors.blue, 
+                      width: 4, 
                     ),
                   ),
                   padding: const EdgeInsets.only(
