@@ -3,7 +3,6 @@ import 'package:basics_1/models/answer_button.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-
 class QuestionsScreen extends StatefulWidget {
   const QuestionsScreen({
     super.key,
@@ -27,7 +26,6 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
       currentQueationIndex++;
     });
   }
-
   @override
   Widget build(BuildContext context) {
     final currentQuestion = questions[currentQueationIndex];
