@@ -21,7 +21,6 @@ class ResultsScreen extends StatelessWidget {
     }
     return summary;
   }
-
   @override
   Widget build(BuildContext context) {
     final summaryData = getSummaryData();
@@ -55,3 +54,4 @@ class ResultsScreen extends StatelessWidget {
     );
   }
 }
+
