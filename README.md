@@ -1,11 +1,24 @@
-# Quiz Application. DMV
+# 🚗 Quiz App: DMV Driving Test Prep 📱
 
+**Quiz App** is a **Flutter-based** mobile application designed to help users **prepare for the DMV driving test** through an interactive and engaging quiz format. Whether you're a first-time driver or just refreshing your knowledge, this app makes learning easy and fun! 🎯
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🌟 Features
 
-# This project is a Flutter application.
+✔️ **Comprehensive DMV Questions** – Covers all essential driving topics  
+✔️ **Multiple Quiz Modes** – Practice, Timed, and Challenge Mode  
+✔️ **Real-Time Feedback** – Learn from detailed explanations after each question  
+✔️ **Progress Tracking** – Monitor your improvement over time  
+✔️ **User-Friendly Interface** – Simple, clean, and intuitive design  
+✔️ **Cross-Platform** – Works on **Android & iOS** with Flutter  
 
-**Application to test your driving skills, check your knowledge about driving, get ready for driving tests**
+---
 
+## 🚀 Installation & Setup
+
+1️⃣ Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Quiz-App-Flutter.git
+cd Quiz-App-Flutter
